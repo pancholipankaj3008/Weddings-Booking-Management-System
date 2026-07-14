@@ -264,7 +264,6 @@ Automatic Emails
 ## Frontend
 
 - React.js
-- Redux Toolkit
 - Tailwind CSS
 - React Router
 - Axios
